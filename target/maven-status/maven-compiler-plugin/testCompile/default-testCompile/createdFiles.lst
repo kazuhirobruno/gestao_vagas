@@ -1,0 +1,4 @@
+br\com\rocketseat_vagas\gestao_vagas\modules\utils\TestUtils.class
+br\com\rocketseat_vagas\gestao_vagas\modules\candidate\useCases\ApplyJobCandidateUseCaseTest.class
+br\com\rocketseat_vagas\gestao_vagas\modules\company\controllers\CreateJobControllerTest.class
+br\com\rocketseat_vagas\gestao_vagas\GestaoVagasApplicationTests.class

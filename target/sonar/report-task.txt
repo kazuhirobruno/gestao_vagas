@@ -1,0 +1,6 @@
+projectKey=gestao_vagas
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=gestao_vagas
+ceTaskId=AZfSSiGgj-3lMUTKTbGr
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZfSSiGgj-3lMUTKTbGr

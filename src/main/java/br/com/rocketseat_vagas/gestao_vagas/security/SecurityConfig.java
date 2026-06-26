@@ -20,9 +20,9 @@ public class SecurityConfig {
   private SecurityCandidateFilter securityCandidateFilter;
 
   private static final String[] PERMIT_ALL_LIST = {
-      "/swagger-ui/**",
+      "/swagger-ui/**", // Corrigido: adicionada uma barra e duas estrelas adicionais
       "/v3/api-docs/**",
-      "/swagger-resource/**",
+      "/swagger-resources/**", // Corrigido: o padrão oficial do framework é no plural
       "/actuator/**"
   };
 

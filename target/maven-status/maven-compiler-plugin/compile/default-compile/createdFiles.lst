@@ -43,6 +43,7 @@ br\com\rocketseat_vagas\gestao_vagas\modules\company\dto\AuthCompanyDTO.class
 br\com\rocketseat_vagas\gestao_vagas\modules\company\dto\AuthCompanyResponseDTO.class
 br\com\rocketseat_vagas\gestao_vagas\exceptions\CompanyNotFoundException.class
 br\com\rocketseat_vagas\gestao_vagas\modules\candidate\dto\AuthCandidateRequestDTO.class
+br\com\rocketseat_vagas\gestao_vagas\modules\company\useCases\ListAllJobsByCompanyUseCase.class
 br\com\rocketseat_vagas\gestao_vagas\modules\candidate\controllers\AuthCandidateController.class
 br\com\rocketseat_vagas\gestao_vagas\modules\candidate\dto\ProfileCandidateResponseDTO.class
 br\com\rocketseat_vagas\gestao_vagas\modules\candidate\useCases\AuthCandidateUseCase.class
